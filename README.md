@@ -100,6 +100,7 @@ Demo演示
 * 服务器测试环境
 	* Ubuntu版本21.04
 	* MySQL版本8.0.27
+	* Redis版本6.2.6
 * 浏览器测试环境
 	* Windows、Linux均可
 	* Chrome
