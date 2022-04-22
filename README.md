@@ -148,7 +148,6 @@ Demo演示
     cd ../build/Debug/WebServer
     ./myVoteServer
     ```
-(直接makefile或是利用vscode得到的可执行文件并发数更高)
 
 * 浏览器端
 
