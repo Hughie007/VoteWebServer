@@ -1,0 +1,1021 @@
+2022-01-13 11:16:21
+TcpServer get new connection:#32766 from 192.168.3.181:61179 -- TcpServer.cpp -- 24
+2022-01-13 11:16:21
+TcpServer get new connection:#32767 from 192.168.3.181:64682 -- TcpServer.cpp -- 24
+2022-01-13 11:16:21
+Upgrade-Insecure-Requests: 1 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:21
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:21
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:21
+Purpose: prefetch -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:21
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:21
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:21
+ -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:21
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:21
+Content-Length:984
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:21
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:21
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Cache-Control: max-age=0 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Upgrade-Insecure-Requests: 1 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Origin: http://192.168.3.116:9981 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Content-Type: application/x-www-form-urlencoded -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Referer: http://192.168.3.116:9981/ -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Content-Length:1067
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Referer: http://192.168.3.116:9981/0 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+ -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Content-Length:64445
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+TcpServer get new connection:#32768 from 192.168.3.181:52643 -- TcpServer.cpp -- 24
+2022-01-13 11:16:24
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Referer: http://192.168.3.116:9981/0 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+ -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Content-Length:391447
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Referer: http://192.168.3.116:9981/0 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+ -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Content-Length:98002
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+TcpServer get new connection:#32769 from 192.168.3.181:56550 -- TcpServer.cpp -- 24
+2022-01-13 11:16:24
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Referer: http://192.168.3.116:9981/0 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+ -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:24
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Content-Length:82250
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:24
+I am going to write more data -- ./TcpConnection/TcpConn.cpp -- 83
+2022-01-13 11:16:27
+Cache-Control: max-age=0 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:27
+Upgrade-Insecure-Requests: 1 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:27
+Origin: http://192.168.3.116:9981 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:27
+Content-Type: application/x-www-form-urlencoded -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:27
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:27
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:27
+Referer: http://192.168.3.116:9981/0 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:27
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:27
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:27
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:27
+Content-Length:366
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:27
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:27
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:28
+Cache-Control: max-age=0 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:28
+Upgrade-Insecure-Requests: 1 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:28
+Origin: http://192.168.3.116:9981 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:28
+Content-Type: application/x-www-form-urlencoded -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:28
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:28
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:28
+Referer: http://192.168.3.116:9981/2 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:28
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:28
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:28
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:28
+Content-Length:984
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:28
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:28
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Cache-Control: max-age=0 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Upgrade-Insecure-Requests: 1 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Origin: http://192.168.3.116:9981 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Content-Type: application/x-www-form-urlencoded -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Referer: http://192.168.3.116:9981/4 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Content-Length:1033
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Referer: http://192.168.3.116:9981/5 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+ -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Referer: http://192.168.3.116:9981/5 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+ -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Referer: http://192.168.3.116:9981/5 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Content-Length:64445
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+ -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Content-Length:98002
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Referer: http://192.168.3.116:9981/5 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+ -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:29
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Content-Length:82250
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Content-Length:391447
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:29
+I am going to write more data -- ./TcpConnection/TcpConn.cpp -- 83
+2022-01-13 11:16:29
+I am going to write more data -- ./TcpConnection/TcpConn.cpp -- 83
+2022-01-13 11:16:33
+Cache-Control: max-age=0 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:33
+Upgrade-Insecure-Requests: 1 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:33
+Origin: http://192.168.3.116:9981 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:33
+Content-Type: application/x-www-form-urlencoded -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:33
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:33
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:33
+Referer: http://192.168.3.116:9981/5 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:33
+Accept-Language: zh-CN,zh;q=0.9 -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:33
+Accept-Encoding: gzip, deflate -- ./TcpConnection/State.cpp -- 155
+2022-01-13 11:16:33
+HTTP/1.1 200 OK
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:33
+Content-Length:984
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:33
+Connection:keep-alive
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:16:33
+
+ -- ./TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:09
+TcpServer get new connection:#32767 from 192.168.3.181:59410 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 24
+2022-01-13 11:17:09
+TcpServer get new connection:#32768 from 192.168.3.181:61084 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 24
+2022-01-13 11:17:11
+Upgrade-Insecure-Requests: 1 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:11
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:11
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:11
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:11
+Accept-Encoding: gzip, deflate -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:11
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:11
+HTTP/1.1 200 OK
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:11
+Content-Length:984
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:11
+Connection:keep-alive
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:11
+
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Cache-Control: max-age=0 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Upgrade-Insecure-Requests: 1 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Origin: http://192.168.3.116:9981 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Content-Type: application/x-www-form-urlencoded -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Referer: http://192.168.3.116:9981/ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept-Encoding: gzip, deflate -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+HTTP/1.1 200 OK
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Content-Length:1011
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Connection:keep-alive
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Referer: http://192.168.3.116:9981/6 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept-Encoding: gzip, deflate -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+TcpServer get new connection:#32769 from 192.168.3.181:56543 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 24
+2022-01-13 11:17:13
+HTTP/1.1 200 OK
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Content-Length:62756
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Connection:keep-alive
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+TcpServer get new connection:#32770 from 192.168.3.181:59845 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 24
+2022-01-13 11:17:13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Referer: http://192.168.3.116:9981/6 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept-Encoding: gzip, deflate -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+HTTP/1.1 200 OK
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Content-Length:84181
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Connection:keep-alive
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Referer: http://192.168.3.116:9981/6 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept-Encoding: gzip, deflate -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+HTTP/1.1 200 OK
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Content-Length:90218
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Connection:keep-alive
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Referer: http://192.168.3.116:9981/6 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+Accept-Encoding: gzip, deflate -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:13
+HTTP/1.1 200 OK
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Content-Length:227403
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+Connection:keep-alive
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:13
+I am going to write more data -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/TcpConn.cpp -- 83
+2022-01-13 11:17:15
+Cache-Control: max-age=0 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:15
+Upgrade-Insecure-Requests: 1 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:15
+Origin: http://192.168.3.116:9981 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:15
+Content-Type: application/x-www-form-urlencoded -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:15
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:15
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:15
+Referer: http://192.168.3.116:9981/6 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:15
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:15
+Accept-Encoding: gzip, deflate -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-01-13 11:17:15
+HTTP/1.1 200 OK
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:15
+Content-Length:984
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:15
+Connection:keep-alive
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-01-13 11:17:15
+
+ -- /home/hughie/application/GitTools/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:31
+TcpServer get new connection:#0 from 192.168.3.3:58872 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 29
+2022-04-21 21:35:31
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:31
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:31
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:31
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:31
+Upgrade-Insecure-Requests: 1 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:31
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:31
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:31
+Content-Length:984
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:31
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:31
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Content-Type: application/x-www-form-urlencoded -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+Content-Length:1012
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept: image/avif,image/webp,*/* -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Referer: http://192.168.3.3:9981/6 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+Content-Length:62756
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept: image/avif,image/webp,*/* -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Referer: http://192.168.3.3:9981/6 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+Content-Length:84181
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+TcpServer get new connection:#1 from 192.168.3.3:58878 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 29
+2022-04-21 21:35:33
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept: image/avif,image/webp,*/* -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Referer: http://192.168.3.3:9981/6 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+Content-Length:90218
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept: image/avif,image/webp,*/* -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+Referer: http://192.168.3.3:9981/6 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:33
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+Content-Length:227403
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:33
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:35
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:35
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:35
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:35
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:35
+Content-Type: application/x-www-form-urlencoded -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 21:35:35
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:35
+Content-Length:984
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:35
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 21:35:35
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:15
+TcpServer get new connection:#0 from 192.168.3.249:58743 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 29
+2022-04-21 23:01:15
+Cache-Control: max-age=0 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+Upgrade-Insecure-Requests: 1 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:15
+Content-Length:984
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:15
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:15
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:15
+Pragma: no-cache -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+Cache-Control: no-cache -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+Referer: http://192.168.3.3:9981/ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:15
+HTTP/1.1 404 Not found!
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:15
+Content-Length:49
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:15
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:15
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:15
+The requested file was not found on this server.
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:16
+TcpServer get new connection:#1 from 192.168.3.249:55137 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 29
+2022-04-21 23:01:40
+TcpServer get new connection:#0 from 192.168.3.249:59906 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 29
+2022-04-21 23:01:40
+TcpServer get new connection:#1 from 192.168.3.249:60645 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 29
+2022-04-21 23:01:41
+Upgrade-Insecure-Requests: 1 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:41
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:41
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:41
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:41
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:41
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:01:41
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:41
+Content-Length:984
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:41
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:01:41
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:02:53
+TcpServer get new connection:#0 from 192.168.3.249:60467 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 29
+2022-04-21 23:02:53
+TcpServer get new connection:#1 from 192.168.3.249:62426 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 29
+2022-04-21 23:02:54
+Upgrade-Insecure-Requests: 1 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:02:54
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:02:54
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:02:54
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:02:54
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:02:54
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:02:54
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:02:54
+Content-Length:984
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:02:54
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:02:54
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Cache-Control: max-age=0 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Upgrade-Insecure-Requests: 1 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Origin: http://192.168.3.3:9981 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Content-Type: application/x-www-form-urlencoded -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Referer: http://192.168.3.3:9981/ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Content-Length:1034
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Referer: http://192.168.3.3:9981/5 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Content-Length:64445
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+TcpServer get new connection:#2 from 192.168.3.249:55383 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 29
+2022-04-21 23:03:01
+TcpServer get new connection:#3 from 192.168.3.249:53913 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpServer.cpp -- 29
+2022-04-21 23:03:01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Referer: http://192.168.3.3:9981/5 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Content-Length:82250
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Referer: http://192.168.3.3:9981/5 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Content-Length:98002
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Referer: http://192.168.3.3:9981/5 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:01
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Content-Length:391447
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:01
+I am going to write more data -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/TcpConn.cpp -- 83
+2022-04-21 23:03:01
+I am going to write more data -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/TcpConn.cpp -- 83
+2022-04-21 23:03:03
+Cache-Control: max-age=0 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:03
+Upgrade-Insecure-Requests: 1 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:03
+Origin: http://192.168.3.3:9981 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:03
+Content-Type: application/x-www-form-urlencoded -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:03
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:03
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:03
+Referer: http://192.168.3.3:9981/5 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:03
+Accept-Language: zh-CN,zh;q=0.9 -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:03
+Accept-Encoding: gzip, deflate -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/State.cpp -- 155
+2022-04-21 23:03:03
+HTTP/1.1 200 OK
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:03
+Content-Length:984
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:03
+Connection:keep-alive
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82
+2022-04-21 23:03:03
+
+ -- /home/hughie/application/VisualStudioCode/project/muduo-myserver备份/2022-04-21/VoteWebServer/muduo-myServer/WebServer/TcpConnection/stateAnalyse.cpp -- 82

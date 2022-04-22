@@ -1,0 +1,68 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "C/C++: g++ 生成活动文件",
+            "command": "/usr/bin/g++",
+            "args": [
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}",
+
+                "${fileDirname}/Log/AsyncLogging.cpp",
+                "${fileDirname}/TcpConnection/Channel.cpp",
+                "${fileDirname}/Reactor/Epoll.cpp",
+                "${fileDirname}/Reactor/EventLoop.cpp",
+                "${fileDirname}/Log/FileUtil.cpp",
+                "${fileDirname}/TcpConnection/TcpConn.cpp",
+                "${fileDirname}/Log/LogFile.cpp",
+                "${fileDirname}/syncTools/Mutex.cpp",
+                "${fileDirname}/TcpConnection/Socket.cpp",
+                "${fileDirname}/SocketOps.cpp",
+                "${fileDirname}/Thread.cpp",
+                "${fileDirname}/TimeManager/TimeQueue.cpp",
+                "${fileDirname}/varia.cpp",
+                "${fileDirname}/syncTools/CountDownLatch.cpp",
+                "${fileDirname}/syncTools/Condition.cpp",
+                "${fileDirname}/CurrentThread.cpp",
+                "${fileDirname}/Reactor/Acceptor.cpp",
+                "${fileDirname}/InetAddress.cpp",
+                "${fileDirname}/Log/logging.cpp",
+                "${fileDirname}/Log/LogStream.cpp",
+                "${fileDirname}/TcpServer.cpp",
+                "${fileDirname}/TimeManager/TimeStamp.cpp",
+                "${fileDirname}/TcpConnection/Buffer.cpp",
+                "${fileDirname}/Pool/EventLoopThreadPool.cpp",
+                "${fileDirname}/Reactor/EventLoopThread.cpp",
+                "${fileDirname}/TcpConnection/State.cpp",
+                "${fileDirname}/TcpConnection/stateAnalyse.cpp",
+                "${fileDirname}/TimeManager/TimeManager.cpp",
+                "${fileDirname}/TimeManager/TimeWheel.cpp",
+                "${fileDirname}/Pool/MysqlPool.cpp",
+<<<<<<< HEAD
+                "-lpthread",
+                "-lmysqlclient",
+=======
+                "${fileDirname}/Pool/redisConnectionPool.cpp",
+                "${fileDirname}/DbSyn/dbSYN.cpp",
+                "-lpthread",
+                "-lmysqlclient",
+                "-lhiredis"
+>>>>>>> 6d98924 (first common)
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "调试器生成的任务。"
+        }
+    ],
+    "version": "2.0.0"
+}
