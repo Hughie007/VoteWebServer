@@ -32,7 +32,6 @@ Linux下基于muduo风格的C++投票Web服务器
 > * [非活跃连接定时器处理类](https://github.com/Hughie007/VoteWebServer/tree/master/muduo-myServer/WebServer/TimeManager)
 > * [线程池数据库池处理类](https://github.com/Hughie007/VoteWebServer/tree/master/muduo-myServer/WebServer/Pool)
 > * [异步日志系统处理类](https://github.com/Hughie007/VoteWebServer/tree/master/muduo-myServer/WebServer/Log)
-> * [异步日志系统处理类](https://github.com/Hughie007/VoteWebServer/tree/master/muduo-myServer/WebServer/Log)
 > * [数据库同步工具类](https://github.com/Hughie007/VoteWebServer/tree/master/muduo-myServer/WebServer/DbSyn)
 > * [前段展示网页](https://github.com/Hughie007/VoteWebServer/tree/master/muduo-myServer/WebServer/root) 
 > * [服务器压力测试](https://github.com/Hughie007/VoteWebServer/tree/master/muduo-myServer/WebBench)
